@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="0c7FkojezUCjUnzEKChc">
+    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1080" width="770" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="gallery.html&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FF9933;" value="&amp;lt;header&amp;gt;&lt;div&gt;&amp;lt;h1&amp;gt;kasande oliver&amp;lt;/p&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;p&amp;gt;soft ware engneering&amp;nbsp; student&amp;lt;/&amp;gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="730" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="&amp;lt;nav&amp;gt; | Home | About | Contact | gallery | Data." vertex="1">
+          <mxGeometry height="50" width="730" x="50" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-5" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="780" width="730" x="50" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#66FFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;main&amp;gt; &amp;lt;section&amp;gt; gallery&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="316" x="294" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-7" parent="1" style="whiteSpace=wrap;html=1;fillColor=#66FF66;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;figure&amp;gt; image +&amp;lt;fig caption&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="200" x="94" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#B3FF66;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;figure&amp;gt; image +&amp;lt;fig caption&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="175" x="355" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-9" parent="1" style="whiteSpace=wrap;html=1;fillColor=#CCFF99;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;figure&amp;gt; image +&amp;lt;fig caption&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="250" width="160" x="600" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-10" parent="1" style="whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#FFE599;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;figure&amp;gt; &amp;lt;video controls&amp;gt; +&amp;lt;fig caption&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="360" width="690" x="70" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="gQbIriaEjKDbg8M3F_4N-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=#E5CCFF;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;lt;footer&amp;gt; (c) kasande oliver 2026&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="730" x="50" y="1050" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
